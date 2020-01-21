@@ -8,5 +8,5 @@ void draw(){
 }
 
 void myFunction(){
-  println("Test is working");
+  println("Test is working as intended");
 }
