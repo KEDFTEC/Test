@@ -7,6 +7,6 @@ void draw(){
   circle(random(width),random(height),random(50));
 }
 
-void myFunction(){
-  println("Test is working as intended");
+void myFunction(String str){
+  println("This " + str + " is working as intended");
 }
